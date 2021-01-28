@@ -42,6 +42,31 @@ git clone https://github.com/Cesar-Hack-Gray/scam
 
 git clone https://github.com/Yisus7u7/ScamGUI
 
+cd scam 
+
+mv * ~/ScamGUI 
+
+cd $HOME
+
+cd ScamGUI 
+
+rm -rf *.png 
+
+chmod 755 scam.py
+
+chmod +x install.sh 
+
+chmod +x scam
+
+mv scam /data/data/com.termux/files/usr/bin/
+
+bash install.sh  
+
+
+# listo! 
+
+
+
 
 
 
