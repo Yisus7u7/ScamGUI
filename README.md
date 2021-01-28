@@ -20,4 +20,31 @@ https://wiki.termux.com/wiki/Graphical_Environment
 
 También te dejo estos videos :
 
+https://youtu.be/7--m3bUHiGI
+
+https://youtu.be/L-SYF3ufO9o
+
+# INSTALACIÓN 
+
+Primero se descargan los requisitos :
+
+pkg install python-tkinter
+
+pip install subprocess 
+
+pip install pysimplegui 
+
+Luego de esto, debes seguir en orden estos comandos:
+
+cd $HOME
+
+git clone https://github.com/Cesar-Hack-Gray/scam
+
+git clone https://github.com/Yisus7u7/ScamGUI
+
+
+
+
+
+
 
