@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#Este archivo ejecutara la Gui directamente en la consola
+#Este archivo ejecutara la Gui directamente 
+#desde la consola
 
 python ~/ScamGUI/scam.py
 
