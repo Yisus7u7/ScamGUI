@@ -86,7 +86,7 @@ y ejecutas directamente el programa con:
 
 python scam.py
 
-![imagen3](./Screenshot_20210128-121529.png) 
+![imagen3](./Screenshot_20210128-121452.png) 
 
 
 
