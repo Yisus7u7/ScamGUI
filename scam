@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#Este archivo ejecutara la Gui directamente en la consola
+
+python ~/ScamGUI/scam.py
+
+exit
+
