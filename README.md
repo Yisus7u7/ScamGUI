@@ -86,7 +86,21 @@ y ejecutas directamente el programa con:
 
 python scam.py
 
-![imagen3](./Screenshot_20210128-121452.png) 
+![imagen3](./Screenshot_20210128-121452.png)
+
+debes precionar una opción para activar el phishing, 
+luego debes copiar el link que aparecerá en la
+consola, si quieres ejecutar otra opción, cierra
+el programa y vuelve lo a abrir, y ejecuta la otra
+opción, el botón  ver las cuentas hackeadas te
+mostrará en la terminal la información de las 
+cuentas que has hackeado. 
+
+# MANIFIESTO
+Este programa es de código abierto y software 
+libre, puedes hacer una copia de este repositorio 
+siempre y cuando dejes créditos, cualquier sujerencia 
+útil será aceptada. 
 
 
 
