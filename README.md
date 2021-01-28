@@ -65,9 +65,28 @@ bash install.sh
 
 # listo! 
 
+![imagen 2](./Screenshot_20210128-121529.png) 
 
+# Como Se Usa? 
 
+su uso es simple, puedes ejecutarlo de dos formas
 
+forma 1:
+
+abres la terminal (desde la interfaz gráfica) 
+y escribes la siguiente palabra:
+
+scam
+
+forma 2: entras a la carpeta con :
+
+cd ScamGUI 
+
+y ejecutas directamente el programa con:
+
+python scam.py
+
+![imagen3](./Screenshot_20210128-121529.png) 
 
 
 
