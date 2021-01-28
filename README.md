@@ -30,7 +30,7 @@ Primero se descargan los requisitos :
 
 pkg install python-tkinter
 
-pip install subprocess 
+pip install subprocess.run 
 
 pip install pysimplegui 
 
