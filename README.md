@@ -34,33 +34,11 @@ pip install subprocess.run
 
 pip install pysimplegui 
 
-Luego de esto, debes seguir en orden estos comandos:
+Luego de esto, debes ejecutar el instalador con:
 
-cd $HOME
+python ~/ScamGUI/install.py 
 
-git clone https://github.com/Cesar-Hack-Gray/scam
-
-git clone https://github.com/Yisus7u7/ScamGUI
-
-cd scam 
-
-mv * ~/ScamGUI 
-
-cd $HOME
-
-cd ScamGUI 
-
-rm -rf *.png 
-
-chmod 755 scam.py
-
-chmod +x install.sh 
-
-chmod +x scam
-
-mv scam /data/data/com.termux/files/usr/bin/
-
-bash install.sh  
+Y luego clikeas en (instalar) 
 
 
 # listo! 
@@ -69,7 +47,7 @@ bash install.sh
 
 # Como Se Usa? 
 
-su uso es simple, puedes ejecutarlo de dos formas
+su uso es simple, puedes ejecutarlo de tres formas
 
 forma 1:
 
@@ -80,11 +58,15 @@ scam
 
 forma 2: entras a la carpeta con :
 
-cd ScamGUI 
+cd scam
 
 y ejecutas directamente el programa con:
 
 python scam.py
+
+forma 3: ve a aplicaciones>accesorios>scam
+
+Para abrir la app 
 
 ![imagen3](./Screenshot_20210128-121452.png)
 
