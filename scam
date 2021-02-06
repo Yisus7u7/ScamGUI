@@ -1,0 +1,12 @@
+#!/bin/bash
+# -*- coding: utf-8 -*-
+
+#Este archivo ejecutara la Gui directamente 
+#desde la consola
+
+cd ~/scam 
+
+python ~/scam/scam.py
+
+exit
+

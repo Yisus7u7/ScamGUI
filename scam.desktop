@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=2.0
+Encoding=UTF-8
+Type=Application
+Name=ScamGUI
+GenericName=scam
+Comment=Simple herramienta de phishing 
+Exec=scam
+Terminal=true 
+Type=Application
+MimeType=phishing/explotation
+Categories=GTK;Utility;
+
+
+
+
