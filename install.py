@@ -32,11 +32,11 @@ install.geometry("400x100")
 
 install.configure(bg='#778899') 
 
+def build():
+    subprocess.Popen(['./make.sh']) 
+
 def close():
     install.destroy()
-
-def build():
-    subprocess.Popen(['./build.sh']) 
 
 Label(install, text="esta seguro de instalar <scam>").pack()
 
