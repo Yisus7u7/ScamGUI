@@ -38,6 +38,8 @@ Luego de esto, debes ejecutar el instalador con:
 
 git clone https://github.com/Yisus7u7/ScamGUI 
 
+chmod +x ~/ScamGUI/*
+
 python ~/ScamGUI/install.py 
 
 Y luego clikeas en (instalar) 
