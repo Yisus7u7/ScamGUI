@@ -24,6 +24,8 @@ echo -e "\e[1;31m[+]instalando <scam> \e[1m"
 
 sleep 3
 
+mv ~/ScamGUI/scam $PREFIX/bin
+
 pkg update
 
 pkg upgrade
@@ -38,11 +40,11 @@ pip install subprocess.run
 
 pip install pysimplegui
 
-git clone https://github.com/Cesar-Hack-Gray/scam
-
 pkg install -y python2
 
 pkg install -y openssh
+
+git clone https://github.com/Cesar-Hack-Gray/scam
 
 echo -e "\e[1;31m[+]construlledo datos de la app...\e[1m"
 
@@ -51,8 +53,6 @@ mv ~/ScamGUI/scam $HOME
 mv ~/ScamGUI/* ~/scam
 
 chmod +x ~/scam/*
-
-mv ~/scam/scam $PREFIX/bin
 
 mv ~/scam/scam.desktop $PREFIX/share/applications/
 
