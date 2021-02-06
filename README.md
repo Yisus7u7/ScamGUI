@@ -40,9 +40,9 @@ git clone https://github.com/Yisus7u7/ScamGUI
 
 chmod +x ~/ScamGUI/*
 
-python ~/ScamGUI/install.py 
+bash ~/ScamGUI/make.sh
 
-Y luego clikeas en (instalar) 
+Y luego comenzará la instalación 
 
 
 # listo! 
