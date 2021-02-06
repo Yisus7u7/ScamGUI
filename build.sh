@@ -54,7 +54,7 @@ chmod +x ~/scam/*
 
 mv ~/scam/scam $PREFIX/bin
 
-mv ~/scam/scam.desktop /data/data/com.termux/files/usr/share/applications/
+mv ~/scam/scam.desktop $PREFIX/share/applications/
 
 echo "instalación exitosa, escriba scam o valla al menu de apps para ejecutar el programa"
 
