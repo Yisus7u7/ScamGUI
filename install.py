@@ -36,7 +36,7 @@ def close():
     install.destroy()
 
 def build():
-    subprocess.Popen(['bash', 'build.sh']) 
+    subprocess.Popen(['bash', '~/ScamGUI/build.sh']) 
 
 Label(install, text="esta seguro de instalar <scam>").pack()
 
