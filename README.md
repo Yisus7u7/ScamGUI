@@ -36,6 +36,8 @@ pip install pysimplegui
 
 Luego de esto, debes ejecutar el instalador con:
 
+git clone https://github.com/Yisus7u7/ScamGUI 
+
 python ~/ScamGUI/install.py 
 
 Y luego clikeas en (instalar) 
